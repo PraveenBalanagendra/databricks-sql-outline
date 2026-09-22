@@ -2,7 +2,7 @@
   "name": "databricks-sql-outline",
   "displayName": "Databricks SQL Outline",
   "description": "Adds Databricks SQL table symbols to the VS Code Outline view",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "praveen-balanagendra",
   "author": {
     "name": "Praveen Balanagendra"

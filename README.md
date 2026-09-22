@@ -6,6 +6,10 @@ Adds Databricks SQL table symbols to VS Code's built-in Outline view. It recogni
 
 Install [Databricks SQL Outline](https://marketplace.visualstudio.com/items?itemName=praveen-balanagendra.databricks-sql-outline) from the VS Code Marketplace, or search for "Databricks SQL Outline" in the Extensions view (`Ctrl+Shift+X`).
 
+## Preview
+
+![Outline view listing CREATE TABLE declarations from a sample SQL file](images/screenshot.png)
+
 ## Usage
 
 1. Open a `.sql` file.
